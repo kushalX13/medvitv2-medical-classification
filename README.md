@@ -181,7 +181,7 @@ python train_hybrid_90_10.py \
 
 ```
 MedViTV2/
-├── src/                           # Core implementation
+├── main/                          # Core implementation
 │   ├── MedViT.py                  # MedViT architecture
 │   ├── main.py                    # Main training script
 │   ├── datasets.py                # Dataset utilities

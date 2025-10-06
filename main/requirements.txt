@@ -1,0 +1,15 @@
+einops
+timm
+medmnist==3.0.2
+numpy
+pandas
+scikit-learn
+scikit-image
+fvcore
+tqdm
+Pillow
+fire
+torchattacks
+torch
+torchvision
+grad-cam
